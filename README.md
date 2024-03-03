@@ -37,7 +37,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./desktop.png)
+![](./mobile.png)
+
 
 
 
@@ -46,8 +48,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/yogi04-ait/AGE-CALCULATOR-APP-MAIN)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: [](https://github.com/yogi04-ait/AGE-CALCULATOR-APP-MAIN)
+- Live Site URL: [](https://your-live-site-url.com)
 
 ## My process
 The design for the form was provided by Frontend Mentor. I structured the form using semantic HTML5 markup, prioritizing accessibility. After establishing the structure, I applied CSS styling using grid and flexbox for layout purposes.
